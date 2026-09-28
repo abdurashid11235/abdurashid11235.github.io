@@ -29,13 +29,13 @@
 
 // Palette.
 	$palette: (
-		wrapper-bg:			#212931,
+		wrapper-bg:			#eeeeee,
 
-		bg:					#ffffff,
-		fg:					#212931,
-		fg-bold:			#212931,
-		fg-light:			mix(#212931, #ffffff, 50%),
-		border:				mix(#dcdcdc, #ffffff, 50%),
+		bg:					#1d262e,
+		fg:					#eeeeee,
+		fg-bold:			#eeeeee,
+		fg-light:			mix(#eeeeee, #1d262e, 50%),
+		border:				mix(#dcdcdc, #1d262e, 50%),
 		border-bg:			rgba(#dcdcdc, 0.25),
 		accent:				#18bfef,
 
@@ -52,11 +52,11 @@
 		invert: (
 			bg:				#1e252d,
 			bg-alt:			#1e252d,
-			fg:				#ffffff,
-			fg-bold:		#ffffff,
-			fg-light:		rgba(#ffffff, 0.5),
-			border:			#ffffff,
-			border-bg:		rgba(#ffffff,0.075),
+			fg:				#1d262e,
+			fg-bold:		#1d262e,
+			fg-light:		rgba(#1d262e, 0.5),
+			border:			#1d262e,
+			border-bg:		rgba(#1d262e,0.075),
 			accent:			#18bfef,
 		),
 	);
